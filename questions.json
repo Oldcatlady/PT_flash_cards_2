@@ -1,0 +1,175 @@
+ [
+ {
+    "question": "Welche Vergleichsoperatoren gibt es in Java?",
+    "answer": {
+      "eigenschaften": [
+        "== gleich",
+        "!= ungleich",
+        "< kleiner als",
+        "> größer als",
+        "<= kleiner gleich",
+        ">= größer gleich"
+      ]
+    }
+  },
+  {
+    "question": "Beispiel für die Anwendung eines Vergleichsoperators in Java?",
+    "answer": {
+      "beispiel": "int a = 5;\nint b = 10;\nboolean ergebnis = a < b;"
+    }
+  },
+  {
+    "question": "Erläutern Sie den Begriff „mehrzeiliger Kommentar“ in Java unter Verwendung fachsprachlicher Begriffe.",
+    "answer": {
+      "definition": "Ein mehrzeiliger Kommentar dient der Dokumentation des Quellcodes und wird vom Compiler bei der Übersetzung ignoriert.",
+      "eigenschaften": [
+        "Wird zur Erklärung und Strukturierung des Programmcodes verwendet",
+        "Hat keinen Einfluss auf die Programmausführung",
+        "Wird zwischen /* ... */ geschrieben",
+        "Kann sich über mehrere Zeilen erstrecken"
+      ],
+      "beispiel": "/*\nDies ist ein mehrzeiliger Kommentar.\nEr wird vom Compiler ignoriert.\n*/"
+    }
+  },
+  {
+    "question": "Was ist ein einzeiliger Kommentar in Java?",
+    "answer": {
+      "definition": "Ein einzeiliger Kommentar dient zur kurzen Erklärung von Code und wird vom Compiler ignoriert.",
+      "eigenschaften": [
+        "Wird mit // eingeleitet"
+      ],
+      "beispiel": "// Das ist ein Kommentar\nint x = 5;"
+    }
+  },
+  {
+    "question": "Was ist ein Dokumentationskommentar in Java?",
+    "answer": {
+      "definition": "Ein Dokumentationskommentar wird zur automatischen Dokumentation von Code verwendet (z. B. für APIs) und wird ebenfalls vom Compiler ignoriert.",
+      "eigenschaften": [
+        "Wird mit /** ... */ geschrieben"
+      ],
+      "beispiel": "/**\n * Diese Methode addiert zwei Zahlen.\n */"
+    }
+  },
+  {
+    "question": "Wofür werden Kommentare in Java verwendet?",
+    "answer": {
+      "definition": "Kommentare dienen zur Dokumentation und Erklärung des Quellcodes. Sie werden vom Compiler ignoriert und haben keinen Einfluss auf die Programmausführung."
+    }
+  },
+   {
+    "question": "Welche Vergleichsoperatoren gibt es in Java?",
+    "answer": {
+      "eigenschaften": [
+        "== gleich",
+        "!= ungleich",
+        "< kleiner als",
+        "> größer als",
+        "<= kleiner gleich",
+        ">= größer gleich"
+      ]
+    }
+  },
+  {
+    "question": "Beispiel für die Anwendung eines Vergleichsoperators in Java?",
+    "answer": {
+      "beispiel": "int a = 5;\nint b = 10;\nboolean ergebnis = a < b;"
+    }
+  },
+  {
+    "question": "Erläutern Sie den Begriff „mehrzeiliger Kommentar“ in Java unter Verwendung fachsprachlicher Begriffe.",
+    "answer": {
+      "definition": "Ein mehrzeiliger Kommentar dient der Dokumentation des Quellcodes und wird vom Compiler bei der Übersetzung ignoriert.",
+      "eigenschaften": [
+        "Wird zur Erklärung und Strukturierung des Programmcodes verwendet",
+        "Hat keinen Einfluss auf die Programmausführung",
+        "Wird zwischen /* ... */ geschrieben",
+        "Kann sich über mehrere Zeilen erstrecken"
+      ],
+      "beispiel": "/*\nDies ist ein mehrzeiliger Kommentar.\nEr wird vom Compiler ignoriert.\n*/"
+    }
+  },
+  {
+    "question": "Was ist ein einzeiliger Kommentar in Java?",
+    "answer": {
+      "definition": "Ein einzeiliger Kommentar dient zur kurzen Erklärung von Code und wird vom Compiler ignoriert.",
+      "eigenschaften": [
+        "Wird mit // eingeleitet"
+      ],
+      "beispiel": "// Das ist ein Kommentar\nint x = 5;"
+    }
+  },
+  {
+    "question": "Was ist ein Dokumentationskommentar in Java?",
+    "answer": {
+      "definition": "Ein Dokumentationskommentar wird zur automatischen Dokumentation von Code verwendet (z. B. für APIs) und wird ebenfalls vom Compiler ignoriert.",
+      "eigenschaften": [
+        "Wird mit /** ... */ geschrieben"
+      ],
+      "beispiel": "/**\n * Diese Methode addiert zwei Zahlen.\n */"
+    }
+  },
+  {
+    "question": "Wofür werden Kommentare in Java verwendet?",
+    "answer": {
+      "definition": "Kommentare dienen zur Dokumentation und Erklärung des Quellcodes. Sie werden vom Compiler ignoriert und haben keinen Einfluss auf die Programmausführung."
+    }
+  },
+  {
+    "question": "Welche Vergleichsoperatoren gibt es in Java?",
+    "answer": {
+      "eigenschaften": [
+        "== gleich",
+        "!= ungleich",
+        "< kleiner als",
+        "> größer als",
+        "<= kleiner gleich",
+        ">= größer gleich"
+      ]
+    }
+  },
+  {
+    "question": "Beispiel für die Anwendung eines Vergleichsoperators in Java?",
+    "answer": {
+      "beispiel": "int a = 5;\nint b = 10;\nboolean ergebnis = a < b;"
+    }
+  },
+  {
+    "question": "Erläutern Sie den Begriff „mehrzeiliger Kommentar“ in Java unter Verwendung fachsprachlicher Begriffe.",
+    "answer": {
+      "definition": "Ein mehrzeiliger Kommentar dient der Dokumentation des Quellcodes und wird vom Compiler bei der Übersetzung ignoriert.",
+      "eigenschaften": [
+        "Wird zur Erklärung und Strukturierung des Programmcodes verwendet",
+        "Hat keinen Einfluss auf die Programmausführung",
+        "Wird zwischen /* ... */ geschrieben",
+        "Kann sich über mehrere Zeilen erstrecken"
+      ],
+      "beispiel": "/*\nDies ist ein mehrzeiliger Kommentar.\nEr wird vom Compiler ignoriert.\n*/"
+    }
+  },
+  {
+    "question": "Was ist ein einzeiliger Kommentar in Java?",
+    "answer": {
+      "definition": "Ein einzeiliger Kommentar dient zur kurzen Erklärung von Code und wird vom Compiler ignoriert.",
+      "eigenschaften": [
+        "Wird mit // eingeleitet"
+      ],
+      "beispiel": "// Das ist ein Kommentar"
+    }
+  },
+  {
+    "question": "Was ist ein Dokumentationskommentar in Java?",
+    "answer": {
+      "definition": "Ein Dokumentationskommentar wird zur automatischen Dokumentation von Code verwendet (z. B. für APIs) und wird vom Compiler ignoriert.",
+      "eigenschaften": [
+        "Wird mit /** ... */ geschrieben"
+      ]
+    }
+  },
+  {
+    "question": "Wofür werden Kommentare in Java verwendet?",
+    "answer": {
+      "definition": "Kommentare dienen zur Dokumentation und Erklärung des Quellcodes. Sie werden vom Compiler ignoriert und haben keinen Einfluss auf die Programmausführung."
+    }
+  }
+]
